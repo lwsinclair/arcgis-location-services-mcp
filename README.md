@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/puran1218-arcgis-location-services-mcp-badge.png)](https://mseep.ai/app/puran1218-arcgis-location-services-mcp)
+
 # ArcGIS Location Services MCP Server
 
 [![smithery badge](https://smithery.ai/badge/@puran1218/arcgis-location-services-mcp)](https://smithery.ai/server/@puran1218/arcgis-location-services-mcp)
